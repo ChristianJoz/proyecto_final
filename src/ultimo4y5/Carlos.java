@@ -7,13 +7,10 @@ package ultimo4y5;
 
 /**
  *
- * @author Josue Morales
+ * @author dani_
  */
-public class Christian {
+public class Carlos {
     public static void main(String[] args) {
         // TODO code application logic here
-        
-        System.out.println("Vivo en zacatecoluca ");
-        System.out.println("Vivo a 30 min de ITCA ");
-    }
+        System.out.println("Soy Carlos Daniel Vivo en San Vicente Naci en Abril del 2000 es mi segundo año en el itca mi NIT es: 190019");    }
 }
